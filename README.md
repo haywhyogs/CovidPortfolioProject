@@ -1,5 +1,4 @@
 # CovidPortfolioProject 
-This project utilized SQL to analyze COVID-19 data, revealing insights on transmission, vulnerable populations, disparities, and promoting solutions such as vaccination, public health measures, and equity in healthcare.
 
 I am thrilled to share my recent journey working on a compelling COVID-19 project utilizing SQL to extract and analyze crucial data. Through this experience, I have gained invaluable skills and insights that I am eager to convey to the global community. Join me in the fight against COVID-19 and let's spread awareness together! #COVID19DataAnalysis #PublicHealth
 
